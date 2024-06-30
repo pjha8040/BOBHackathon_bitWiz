@@ -1,0 +1,24 @@
+{
+  "name": "bobhackathon_bitwiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjha8040/BOBHackathon_bitWiz.git"
+  },
+  "author": "team bitWiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjha8040/BOBHackathon_bitWiz/issues"
+  },
+  "homepage": "https://github.com/pjha8040/BOBHackathon_bitWiz#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
